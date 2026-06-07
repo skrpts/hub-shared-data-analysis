@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "a154bcd0-641c-4cb4-8a74-ba772317ea01"
+id: "8c77a144-bc67-4f2e-ac16-d677dc8407b7"
 name: "data-analysis"
 display_name: "Data Analysis"
 description: "Extracting patterns, trends, and actionable insights from qualitative and quantitative data"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
