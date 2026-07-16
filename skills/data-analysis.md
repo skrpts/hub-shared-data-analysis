@@ -68,7 +68,7 @@ Each insight must include:
 Combine individual insights into a coherent narrative:
 - Group related insights into themes
 - Identify which insights reinforce each other and which conflict
-- Prioritise insights by business impact and confidence level
+- Prioritize insights by business impact and confidence level
 - Surface the 3-5 most important takeaways
 
 ### Output Structure
